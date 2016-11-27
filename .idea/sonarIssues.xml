@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/App.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR9ihRi3sRip77w" />
+                <option name="line" value="31" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR9ihRi3sRip77v" />
+                <option name="line" value="26" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR9ihRi3sRip77u" />
+                <option name="line" value="24" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR8ihRi3sRip77t" />
+                <option name="line" value="19" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR-ihRi3sRip77z" />
+                <option name="line" value="41" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR-ihRi3sRip77y" />
+                <option name="line" value="39" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR-ihRi3sRip77x" />
+                <option name="line" value="33" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhR-ihRi3sRip770" />
+                <option name="line" value="10" />
+                <option name="message" value="Add a private constructor to hide the implicit public one." />
+                <option name="ruleKey" value="squid:S1118" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/echipament/classes/biciclete/Cursiera.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhSFihRi3sRip772" />
+                <option name="line" value="31" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhSFihRi3sRip771" />
+                <option name="message" value="1 duplicated blocks of code must be removed." />
+                <option name="ruleKey" value="common-java:DuplicatedBlocks" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/echipament/classes/biciclete/MountainBike.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhSJihRi3sRip777" />
+                <option name="line" value="21" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/echipament/classes/motociclete/Chopper.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhSPihRi3sRip77-" />
+                <option name="line" value="27" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhSPihRi3sRip779" />
+                <option name="message" value="1 duplicated blocks of code must be removed." />
+                <option name="ruleKey" value="common-java:DuplicatedBlocks" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/echipament/interfaces/Bicicleta.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVikyhSXihRi3sRip78D" />
+                <option name="line" value="11" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
