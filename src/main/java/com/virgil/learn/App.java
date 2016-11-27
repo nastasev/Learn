@@ -44,7 +44,7 @@ public class App
         motocicleta1.schimbaFrana(3);
         motocicleta1.schimbaSuspensie(2);
         motocicleta1.afiseazaStare();
-        
+
         System.out.println("Done");
     }
 }

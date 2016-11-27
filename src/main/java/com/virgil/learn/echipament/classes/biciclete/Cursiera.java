@@ -7,22 +7,20 @@ public class Cursiera implements Bicicleta{
     int foaie = 0;
     int frana = 0;
 
-    @Override
+    public int getPinion() {return pinion;};
+    public int getFoaie() {return foaie;};
+    public int getFrana() {return frana;};
+
     public void schimbaPinion(int valoareNoua) {
         pinion = valoareNoua;
     }
-
-    @Override
     public void schimbaFoaie(int valoareNoua) {
         foaie = valoareNoua;
     }
-
-    @Override
     public void schimbaFrana(int valoareNoua) {
         frana = valoareNoua;
     }
 
-    @Override
     public void afiseazaStare() {
         System.out.print("pinion:" + pinion + " foaie:" + foaie + " frana:" + frana);
     }
