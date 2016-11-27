@@ -7,9 +7,9 @@ public class Cursiera implements Bicicleta{
     int foaie = 0;
     int frana = 0;
 
-    public int getPinion() {return pinion;};
-    public int getFoaie() {return foaie;};
-    public int getFrana() {return frana;};
+    public int getPinion() {return pinion;}
+    public int getFoaie() {return foaie;}
+    public int getFrana() {return frana;}
 
     public void schimbaPinion(int valoareNoua) {
         pinion = valoareNoua;
