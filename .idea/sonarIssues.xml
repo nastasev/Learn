@@ -115,6 +115,11 @@
             </set>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/ChopperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/virgil/learn/CursieraTest.java">
           <value>
             <set />
