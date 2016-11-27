@@ -1,9 +1,11 @@
-package com.virgil.learn;
+package com.virgil.learn.classes;
 
 import com.virgil.learn.echipament.classes.biciclete.Cursiera;
 import junit.framework.Assert;
+import org.junit.Test;
 
 public class CursieraTest {
+    @Test
     public void testGetSet() {
         Cursiera cursiera = new Cursiera();
 

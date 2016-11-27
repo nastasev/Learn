@@ -93,37 +93,12 @@
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/echipament/classes/biciclete/MountainBike.java">
           <value>
-            <set>
-              <SonarIssue>
-                <option name="isNew" value="false" />
-                <option name="key" value="AVikyhSJihRi3sRip777" />
-                <option name="line" value="21" />
-                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
-                <option name="ruleKey" value="squid:S106" />
-                <option name="severity" value="MAJOR" />
-              </SonarIssue>
-            </set>
+            <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/echipament/classes/motociclete/Chopper.java">
           <value>
-            <set>
-              <SonarIssue>
-                <option name="isNew" value="false" />
-                <option name="key" value="AVikyhSPihRi3sRip77-" />
-                <option name="line" value="27" />
-                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
-                <option name="ruleKey" value="squid:S106" />
-                <option name="severity" value="MAJOR" />
-              </SonarIssue>
-              <SonarIssue>
-                <option name="isNew" value="false" />
-                <option name="key" value="AVikyhSPihRi3sRip779" />
-                <option name="message" value="1 duplicated blocks of code must be removed." />
-                <option name="ruleKey" value="common-java:DuplicatedBlocks" />
-                <option name="severity" value="MAJOR" />
-              </SonarIssue>
-            </set>
+            <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/virgil/learn/echipament/interfaces/Bicicleta.java">
@@ -150,7 +125,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/virgil/learn/classes/ChopperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/virgil/learn/classes/Cursiera.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/virgil/learn/classes/CursieraTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/virgil/learn/classes/MotocicletaTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/virgil/learn/classes/MountainBikeTest.java">
           <value>
             <set />
           </value>
